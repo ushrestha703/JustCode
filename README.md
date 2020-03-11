@@ -24,6 +24,7 @@ This JustCode project should have several phases. As you complete each phase, yo
 - … simmer
 - Add GUI (Web/Angular/Typescript) “front end”
   - more on this later
+- Be sure to think SOLID, Clean adnd Agile.
 
 ## Ideas 
 
@@ -39,3 +40,5 @@ This JustCode project should have several phases. As you complete each phase, yo
 ### What Now?
 
 Register your ideas with Kris, outlining the project idea and the members of the team. schedule a quick meeting him to launch the project.
+
+Be thoughtful about when you think you can hit certain milestones (phases from the protocol above.)
