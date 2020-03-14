@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/JustCode.iml" filepath="$PROJECT_DIR$/.idea/JustCode.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/JustCode.iml" filepath="$PROJECT_DIR$/JustCode.iml" />
+>>>>>>> 8ac391fe6aaa6fd25e5779c5ba9892fdcf9ad718
     </modules>
   </component>
 </project>
